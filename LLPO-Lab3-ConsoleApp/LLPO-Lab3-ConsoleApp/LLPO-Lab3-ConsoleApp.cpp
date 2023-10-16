@@ -9,9 +9,9 @@ int main()
 {
     //std::cout << "The number is " << i << std::endl;
 
-    int* newArr = new int[10];
+    //int* newArr = new int[10];
 
-    delete[] newArr;
+    //delete[] newArr;
 
     int* i = new int(1);
 
@@ -21,9 +21,9 @@ int main()
 
     //free(mallocArr);
 
-    MyObject* obj = new MyObject;
+    //MyObject* obj = new MyObject;
 
-    delete obj;
+    //delete obj;
 
     return 0;
 }
